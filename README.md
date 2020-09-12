@@ -39,11 +39,11 @@ execute();
 **Change the flow of the execution of the code snippet. It should log ‘Wearing PPE` first.**
 
 - Cannot change the timeout value
-- cannot call fightCorona inside the then() method of wearPPE()
+- Cannot call fightCorona inside the then() method of wearPPE()
 
 ## My Solution
 
-- **_Change Code snippet_**
+- **_Changed Code snippet_**
 
 ```javascript
 // here is my change to get Wearing PPE first , then Fighting Corona
